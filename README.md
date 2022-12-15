@@ -2,7 +2,6 @@
 
 AntiAnalysis (VirtualBox, SandBox, Debugger, VirusTotal, Any.Run)
 
-![image](https://user-images.githubusercontent.com/106811566/171860372-4db82642-365a-4a78-a9ca-ea6171ab179d.png)
 
 
 Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)
