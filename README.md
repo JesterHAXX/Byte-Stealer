@@ -1,4 +1,4 @@
-# Byte-Grabber
+# Byte-Stealer
 
 AntiAnalysis (VirtualBox, SandBox, Debugger, VirusTotal, Any.Run)
 
